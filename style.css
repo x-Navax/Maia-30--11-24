@@ -25,6 +25,7 @@
         }
         } 
 .milepng {
+    margin-top: 10px;
     text-align: center;
     width: 24rem;
 }
@@ -35,6 +36,7 @@ header h2 {font-family: "Edu AU VIC WA NT Hand", cursive;
     padding-bottom: 15px;
     font-size: 220%;
     color: #ffffff;
+    margin-top: -20px;
      
 }
 header h3 {
